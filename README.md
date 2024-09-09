@@ -1,0 +1,1 @@
+Outline analysis to identify methylated regions specific to germline. Analysis is based on https://www.nature.com/articles/s41588-017-0008-5 but was used in Marchantia polymorpha embryo/sporophyte datasets.
